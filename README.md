@@ -12,6 +12,7 @@
   - Worst-case O(n·lg(n)) key comparisons.
   - Worst-case O(n) swaps.
   - Adaptive: Speeds up to O(n) when data is nearly sorted or when there are few unique keys.
+
 -There is no algorithm that has all of these properties, and so the choice of sorting algorithm depends on the application
 
 
