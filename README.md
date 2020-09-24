@@ -16,4 +16,4 @@
 
 
 ## Jupyter Notebooks ##
-- https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/blob/master/Sorting%20and%20Searching/Implementation%20of%20Binary%20Search.ipynb
+- https://nbviewer.jupyter.org/github/jmportilla/Python-for-Algorithms--Data-Structures--and-Interviews/tree/master/
