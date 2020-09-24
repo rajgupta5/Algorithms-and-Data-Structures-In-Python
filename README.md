@@ -4,6 +4,12 @@
 - https://www.bigocheatsheet.com/
 
 
+## Linked Lists ##
+
+## Stacks, Queues and Dequeues ##
+
+## Trees ##
+
 ## Searching and Sorting ##
 - Visualization of Sorting algorithms [https://www.toptal.com/developers/sorting-algorithms]
 - The ideal sorting algorithm would have the following properties:
